@@ -1,0 +1,1 @@
+"""Banking analysis package."""
